@@ -8,4 +8,23 @@
     "tab.activeForeground": "#9c0303"
     }
 }
+Extensions
+Name: vscode-spotify
+Id: shyykoserhiy.vscode-spotify
+Description: Use Spotify inside vscode.
+Version: 3.2.1
+Publisher: shyykoserhiy
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify
+Name: Music Time for Spotify
+Id: softwaredotcom.music-time
+Description: Music Time for Spotify is a VS Code extension that discovers the most productive music to listen to as you code.
+Version: 2.2.44
+Publisher: Software
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=softwaredotcom.music-time
+
+
+
+
+
+
 
